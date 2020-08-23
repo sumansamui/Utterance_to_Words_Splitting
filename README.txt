@@ -59,5 +59,5 @@ Instruction to the users who want to use corpus other than LibriSpeech:
         enable_word_time_offsets=True)
         
 
- Copyright (c) 2015 by Suman Samui
+ Copyright (c) by Suman Samui
   
