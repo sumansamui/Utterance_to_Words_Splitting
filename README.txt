@@ -58,4 +58,6 @@ Instruction to the users who want to use corpus other than LibriSpeech:
         language_code='en-US',
         enable_word_time_offsets=True)
         
+
+ Copyright (c) 2015 by Suman Samui
   
