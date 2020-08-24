@@ -34,11 +34,13 @@ This project develops a new database (containing audio files with a single word 
 
 4. Use the conda environment: environment_utt_to_words.yaml and then run the top-level script main_utt_to_words.py
 
-  $ conda env create -f environment_utt_to_words.yaml
+Start your shell (terminal):
 
-  $ source activate utterance_to_word
+    $ conda env create -f environment_utt_to_words.yaml
 
-  $ python3 main_utt_to_words.py 
+    $ source activate utterance_to_word
+   
+    $ python3 main_utt_to_words.py 
 
 
 ## Instruction to the users who want to use corpus other than LibriSpeech:
@@ -65,5 +67,5 @@ This project develops a new database (containing audio files with a single word 
 
 please contact: samuisuman@gmail.com
  
-### Copyright (c) by Suman Samui
+### Copyright  by Suman Samui
 
