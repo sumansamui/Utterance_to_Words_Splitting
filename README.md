@@ -2,7 +2,7 @@
 # Project: Utterance to word Splitting 
 
 
-This project develops a new database (containing audio files with a single word in it) from a standard speech corpus. So, the python scripts (in this repository) take an speech corpus (e.g. LibriSpeech) and split the audio files (containing utterances) into audio files (each containing a single word). Hence, the output of the scripts will audio files corresponding to one word per file.
+This project develops a new database (containing audio files with a single word in it) from a standard speech corpus. So, the python scripts (in this repository) take a speech corpus (e.g. LibriSpeech) and split the audio files (containing utterances) into audio files (each containing a single word). Hence, the output of the scripts will audio files corresponding to one word per file.
 
 ## General steps to be followed:
 
@@ -40,6 +40,7 @@ This project develops a new database (containing audio files with a single word 
 
   $ python3 main_utt_to_words.py 
 
+
 ## Instruction to the users who want to use corpus other than LibriSpeech:
 
 
@@ -65,3 +66,4 @@ This project develops a new database (containing audio files with a single word 
 please contact: samuisuman@gmail.com
  
 ### Copyright (c) by Suman Samui
+
