@@ -67,5 +67,5 @@ Start your shell (terminal):
 
 please contact: samuisuman@gmail.com
  
-### Copyright  by Suman Samui
+### © 2020 Suman Samui All Rights Reserved 
 
